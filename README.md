@@ -18,7 +18,7 @@
 Cooking simulator with recipe-based gameplay, scene management, and modular code in Unity.
 
 👾 **[Monster Chase (2D Game)](https://mohitkgithubs.itch.io/monster-chase)**  
-Platformer survival game with enemy AI, scoring system, and replay flow.
+Platformer survival game with enemy, scoring system, and replay flow.
 
 📱 **[AR App](https://tinyurl.com/a726smwz)**  
 Built using Unity + Vuforia to display 3D model overlays via image targets.
