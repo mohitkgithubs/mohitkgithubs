@@ -28,7 +28,8 @@ Built using Unity + Vuforia to display 3D model overlays via image targets.
 ### 🔗 Links
 
 - 🌐 [Portfolio Website](https://mohit-official.netlify.app)  
-- 🎮 [itch.io](https://mohitkgithubs.itch.io)  
+- 🎮 [itch.io](https://mohitkgithubs.itch.io)
+-     Visit my linkedin for more.
 - 📄 [Resume PDF](https://tinyurl.com/2chyr76a)
 
 ---
