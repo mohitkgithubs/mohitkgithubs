@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohit Kumar
 
-🎮 Unity Game Developer | AR/VR Programmer | C# Enthusiast | Game & Simulation Dev
+🎮 Unity Game Developer | C# Programmer | AR/VR Enthusiast | Game & Simulation Dev
 
 ---
 
